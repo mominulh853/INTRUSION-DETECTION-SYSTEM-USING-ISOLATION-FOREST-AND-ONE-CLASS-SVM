@@ -31,7 +31,7 @@ The **Isolation Forest** model proved superior for this high-dimensional dataset
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Training Strategy 
 * **Training Set:** Contains **only** Benign traffic (Normal behavior).
@@ -47,7 +47,7 @@ Instead of using the default decision boundary (0), I dynamically calculated the
 
 ---
 
-## 📈 Performance Comparison
+##  Performance Comparison
 
 | Metric | Isolation Forest  | One-Class SVM  |
 | :--- | :--- | :--- |
